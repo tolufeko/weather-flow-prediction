@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Data/Excel temp files
+~$*
+.DS_Store
+
+# Large Data (Optional)
+# If your CSVs are massive (over 100MB), GitHub will reject them. 
+# If they are small, you can keep them.
